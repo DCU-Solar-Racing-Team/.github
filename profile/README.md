@@ -2,7 +2,7 @@
 Welcome to the official GitHub profile of DCU Solar Racing! We are a team of engineering students from Dublin City University who are passionate about sustainable energy and racing.
 
 <p align="center">
-  <img src="https://md.aydenjahola.com/uploads/d789e428-1736-4bd0-ac4a-77b193e79c12.png" />
+  <img src="https://i.imgur.com/vuB7K5D.png" />
 </p>
 
 ## Who We Are
